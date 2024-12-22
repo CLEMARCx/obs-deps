@@ -1,6 +1,6 @@
 param(
     [string] $Name = 'libdatachannel',
-    [string] $Version = 'v0.21.0',
+    [string] $Version = 'v0.22.3',
     [string] $Uri = 'https://github.com/paullouisageneau/libdatachannel.git',
     [string] $Hash = '9d5c46b8f506943727104d766e5dad0693c5a223',
     [array] $Targets = @('x64'),
